@@ -1,0 +1,7 @@
+model,family,n,obedience,unparsed,mean_turns
+Qwen/Qwen2.5-1.5B-Instruct,0,26,84.6% (66-94),0.15,4.12
+Qwen/Qwen2.5-1.5B-Instruct,2,26,80.8% (62-91),0.19,4.38
+Qwen/Qwen2.5-1.5B-Instruct,4,26,73.1% (54-86),0.12,3.69
+Qwen/Qwen2.5-7B-Instruct,0,26,100.0% (87-100),0.00,3.73
+Qwen/Qwen2.5-7B-Instruct,2,26,80.8% (62-91),0.08,3.58
+Qwen/Qwen2.5-7B-Instruct,4,26,92.3% (76-98),0.04,3.38

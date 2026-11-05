@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.venv/
+.ipynb_checkpoints/
+arxiv/*.aux
+arxiv/*.log
+arxiv/*.out
+arxiv/*.blg
+arxiv/*.synctex.gz
+arxiv/*.fdb_latexmk
+arxiv/*.fls
+~$*.docx
+.DS_Store

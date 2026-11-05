@@ -1,0 +1,17 @@
+{
+ "n": 100,
+ "agreement": 0.96,
+ "kappa": 0.9199679871948779,
+ "human1_auto1": 47,
+ "human1_auto0": 2,
+ "human0_auto1": 2,
+ "human0_auto0": 49,
+ "auto_too_generous": [
+  21,
+  40
+ ],
+ "auto_missed": [
+  9,
+  57
+ ]
+}

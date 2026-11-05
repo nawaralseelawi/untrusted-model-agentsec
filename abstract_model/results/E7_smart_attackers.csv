@@ -1,0 +1,31 @@
+attacker,model,defense,ASR,severe_ASR,exp_harm
+aware,realistic,D0,1.0,0.6961,7.0352
+aware,realistic,D1,0.99515,0.69265,7.00075
+aware,realistic,D2,0.45025,0.21275,2.3836
+aware,realistic,D3,0.3461,0.1086,1.4423
+aware,realistic,D4,0.3235,0.11375,1.40505
+aware,compromised model,D0,1.0,0.6961,7.0352
+aware,compromised model,D1,1.0,0.6961,7.0352
+aware,compromised model,D2,0.48505,0.24335,2.67195
+aware,compromised model,D3,0.364,0.1223,1.57645
+aware,compromised model,D4,0.34535,0.12855,1.5577
+smart_easy,realistic,D0,1.0,0.0,1.0
+smart_easy,realistic,D1,0.99515,0.0,0.99515
+smart_easy,realistic,D2,0.9955,0.0,0.9955
+smart_easy,realistic,D3,0.9955,0.0,0.9955
+smart_easy,realistic,D4,0.9955,0.0,0.9955
+smart_easy,compromised model,D0,1.0,0.0,1.0
+smart_easy,compromised model,D1,1.0,0.0,1.0
+smart_easy,compromised model,D2,0.9988,0.0,0.9988
+smart_easy,compromised model,D3,0.9988,0.0,0.9988
+smart_easy,compromised model,D4,0.9988,0.0,0.9988
+smart_value,realistic,D0,1.0,1.0,10.0
+smart_value,realistic,D1,0.99515,0.99515,9.9515
+smart_value,realistic,D2,0.75715,0.2381,3.35815
+smart_value,realistic,D3,0.9735,0.0,1.722
+smart_value,realistic,D4,0.9955,0.0,0.9955
+smart_value,compromised model,D0,1.0,1.0,10.0
+smart_value,compromised model,D1,1.0,1.0,10.0
+smart_value,compromised model,D2,0.80155,0.26965,3.6744
+smart_value,compromised model,D3,0.98785,0.0,1.76105
+smart_value,compromised model,D4,0.9988,0.0,0.9988

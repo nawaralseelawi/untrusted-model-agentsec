@@ -1,0 +1,28 @@
+{
+ "models": [
+  [
+   "hf",
+   "Qwen/Qwen2.5-1.5B-Instruct"
+  ],
+  [
+   "hf",
+   "Qwen/Qwen2.5-7B-Instruct"
+  ]
+ ],
+ "scale": "medium",
+ "families": [
+  0,
+  2,
+  4
+ ],
+ "n_attack": 4,
+ "n_benign": 6,
+ "temperature": 0.7,
+ "max_new": 220,
+ "max_turns": 6,
+ "seed": 20261027,
+ "torch": "2.11.0+cu130",
+ "python": "3.13.16",
+ "stub": false,
+ "transformers": "5.20.2"
+}

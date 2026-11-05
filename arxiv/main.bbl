@@ -1,0 +1,298 @@
+\begin{thebibliography}{10}
+
+\bibitem{greshake}
+K.~Greshake, S.~Abdelnabi, S.~Mishra, C.~Endres, T.~Holz, and M.~Fritz.
+\newblock {Not what you've signed up for: Compromising real-world
+  LLM-integrated applications with indirect prompt injection}.
+\newblock In {\em Proc. 16th ACM Workshop Artif. Intell. Secur. (AISec)}, pages
+  79--90, Copenhagen, Denmark, nov 2023.
+\newblock doi: 10.1145/3605764.3623985, arXiv:2302.12173.
+
+\bibitem{zverev}
+E.~Zverev, S.~Abdelnabi, S.~Tabesh, M.~Fritz, and C.~H. Lampert.
+\newblock {Can LLMs separate instructions from data? And what do we even mean
+  by that?}
+\newblock In {\em Proc. Int. Conf. Learn. Represent. (ICLR)}, 2025.
+\newblock arXiv:2403.06833.
+
+\bibitem{nasr}
+M.~Nasr, N.~Carlini, C.~Sitawarin, S.~V. Schulhoff, J.~Hayes, M.~Ilie,
+  J.~Pluto, S.~Song, H.~Chaudhari, I.~Shumailov, A.~Thakurta, K.~Y. Xiao,
+  A.~Terzis, and F.~Tramèr.
+\newblock {The attacker moves second: Stronger adaptive attacks bypass defenses
+  against LLM jailbreaks and prompt injections}.
+\newblock In {\em Proc. 35th USENIX Secur. Symp.}, pages 1467--1486, Baltimore,
+  MD, USA, aug 2026.
+\newblock arXiv:2510.09023.
+
+\bibitem{zhan25}
+Q.~Zhan, R.~Fang, H.~S. Panchal, and D.~Kang.
+\newblock {Adaptive attacks break defenses against indirect prompt injection
+  attacks on LLM agents}.
+\newblock In {\em Findings Assoc. Comput. Linguistics: NAACL 2025}, pages
+  7116--7132, Albuquerque, NM, USA, 2025.
+\newblock doi: 10.18653/v1/2025.findings-naacl.395.
+
+\bibitem{anderson}
+J.~P. Anderson.
+\newblock {Computer security technology planning study}.
+\newblock Technical Report Tech. Rep. ESD-TR-73-51, USAF Electron. Syst. Div.,
+  Bedford, MA, USA, oct 1972.
+
+\bibitem{saltzer}
+J.~H. Saltzer and M.~D. Schroeder.
+\newblock {The protection of information in computer systems}.
+\newblock {\em Proc. IEEE}, 63(9):1278--1308, sep 1975.
+\newblock doi: 10.1109/PROC.1975.9939.
+
+\bibitem{alahmadi}
+B.~A. Alahmadi, L.~Axon, and I.~Martinovic.
+\newblock {99\% false positives: A qualitative study of SOC analysts'
+  perspectives on security alarms}.
+\newblock In {\em Proc. 31st USENIX Secur. Symp.}, pages 2783--2800, Boston,
+  MA, USA, 2022.
+
+\bibitem{nist80082}
+K.~Stouffer, M.~Pease, C.~Tang, T.~Zimmerman, V.~Pillitteri, S.~Lightman,
+  A.~Hahn, S.~Saravia, A.~Sherule, and M.~Thompson.
+\newblock {Guide to operational technology (OT) security}.
+\newblock Technical Report NIST Spec. Publ. 800-82r3, Nat. Inst. Standards
+  Technol., Gaithersburg, MD, USA, sep 2023.
+\newblock doi: 10.6028/NIST.SP.800-82r3.
+
+\bibitem{perez}
+F.~Perez and I.~Ribeiro.
+\newblock {Ignore previous prompt: Attack techniques for language models}.
+\newblock In {\em NeurIPS 2022 Workshop ML Safety}, 2022.
+\newblock arXiv:2211.09527.
+
+\bibitem{nist100}
+A.~Vassilev, A.~Oprea, A.~Fordyce, H.~Anderson, X.~Davies, and M.~Hamin.
+\newblock {Adversarial machine learning: A taxonomy and terminology of attacks
+  and mitigations}.
+\newblock Technical Report NIST AI 100-2e2025, Nat. Inst. Standards Technol.,
+  Gaithersburg, MD, USA, mar 2025.
+\newblock doi: 10.6028/NIST.AI.100-2e2025.
+
+\bibitem{owasp}
+{OWASP Gen AI Security Project}.
+\newblock {OWASP Top 10 for agentic applications for 2026}.
+\newblock
+  \url{https://genai.owasp.org/resource/owasp-top-10-for-agentic-applications-for-2026/},
+  dec 2025.
+\newblock [Online].
+
+\bibitem{injecagent}
+Q.~Zhan, Z.~Liang, Z.~Ying, and D.~Kang.
+\newblock {InjecAgent: Benchmarking indirect prompt injections in
+  tool-integrated large language model agents}.
+\newblock In {\em Findings Assoc. Comput. Linguistics: ACL 2024}, pages
+  10471--10506, Bangkok, Thailand, 2024.
+\newblock doi: 10.18653/v1/2024.findings-acl.624.
+
+\bibitem{agentdojo}
+E.~Debenedetti, J.~Zhang, M.~Balunović, L.~Beurer-Kellner, M.~Fischer, and
+  F.~Tramèr.
+\newblock {AgentDojo: A dynamic environment to evaluate prompt injection
+  attacks and defenses for LLM agents}.
+\newblock In {\em Adv. Neural Inf. Process. Syst. (NeurIPS), Datasets and
+  Benchmarks Track}, volume~37, pages 82895--82920, 2024.
+\newblock doi: 10.52202/079017-2636, arXiv:2406.13352.
+
+\bibitem{asb}
+H.~Zhang, J.~Huang, K.~Mei, Y.~Yao, Z.~Wang, C.~Zhan, H.~Wang, and Y.~Zhang.
+\newblock {Agent security bench (ASB): Formalizing and benchmarking attacks and
+  defenses in LLM-based agents}.
+\newblock In {\em Proc. Int. Conf. Learn. Represent. (ICLR)}, pages
+  35331--35366, 2025.
+\newblock arXiv:2410.02644.
+
+\bibitem{wasp}
+I.~Evtimov, A.~Zharmagambetov, A.~Grattafiori, C.~Guo, and K.~Chaudhuri.
+\newblock {WASP: Benchmarking web agent security against prompt injection
+  attacks}.
+\newblock In {\em Adv. Neural Inf. Process. Syst. (NeurIPS), Datasets and
+  Benchmarks Track}, volume~38, 2025.
+\newblock doi: 10.52202/085713-0666, arXiv:2504.18575.
+
+\bibitem{agentdyn}
+H.~Li, R.~Wen, S.~Shi, N.~Zhang, Y.~Vorobeychik, and C.~Xiao.
+\newblock {AgentDyn: Are your agent security defenses deployable in real-world
+  dynamic environments?}
+\newblock arXiv:2602.03117v3, 2026.
+
+\bibitem{liu24}
+Y.~Liu, Y.~Jia, R.~Geng, J.~Jia, and N.~Z. Gong.
+\newblock {Formalizing and benchmarking prompt injection attacks and defenses}.
+\newblock In {\em Proc. 33rd USENIX Secur. Symp.}, pages 1831--1847,
+  Philadelphia, PA, USA, 2024.
+
+\bibitem{wallace}
+E.~Wallace, K.~Xiao, R.~Leike, L.~Weng, J.~Heidecke, and A.~Beutel.
+\newblock {The instruction hierarchy: Training LLMs to prioritize privileged
+  instructions}.
+\newblock arXiv:2404.13208, 2024.
+
+\bibitem{hines}
+K.~Hines, G.~Lopez, M.~Hall, F.~Zarfati, Y.~Zunger, and E.~Kiciman.
+\newblock {Defending against indirect prompt injection attacks with
+  spotlighting}.
+\newblock In {\em Proc. Conf. Appl. Mach. Learn. Inf. Secur. (CAMLIS 2024),
+  CEUR Workshop Proc.}, volume 3920, pages 48--62, 2025.
+\newblock arXiv:2403.14720.
+
+\bibitem{struq}
+S.~Chen, J.~Piet, C.~Sitawarin, and D.~Wagner.
+\newblock {StruQ: Defending against prompt injection with structured queries}.
+\newblock In {\em Proc. 34th USENIX Secur. Symp.}, pages 2383--2400, Seattle,
+  WA, USA, aug 2025.
+\newblock arXiv:2402.06363.
+
+\bibitem{secalign}
+S.~Chen, A.~Zharmagambetov, S.~Mahloujifar, K.~Chaudhuri, D.~Wagner, and
+  C.~Guo.
+\newblock {SecAlign: Defending against prompt injection with preference
+  optimization}.
+\newblock In {\em Proc. ACM SIGSAC Conf. Comput. Commun. Secur. (CCS)}, 2025.
+\newblock doi: 10.1145/3719027.3744836, arXiv:2410.05451.
+
+\bibitem{jia25}
+Y.~Jia, Z.~Shao, Y.~Liu, J.~Jia, D.~Song, and N.~Z. Gong.
+\newblock {A critical evaluation of defenses against prompt injection attacks}.
+\newblock arXiv:2505.18333, 2025.
+
+\bibitem{tramer}
+F.~Tramèr, N.~Carlini, W.~Brendel, and A.~Madry.
+\newblock {On adaptive attacks to adversarial example defenses}.
+\newblock In {\em Adv. Neural Inf. Process. Syst. (NeurIPS)}, volume~33, pages
+  1633--1645, 2020.
+\newblock arXiv:2002.08347.
+
+\bibitem{camel}
+E.~Debenedetti, I.~Shumailov, T.~Fan, J.~Hayes, N.~Carlini, D.~Fabian, C.~Kern,
+  C.~Shi, A.~Terzis, and F.~Tramèr.
+\newblock {Defeating prompt injections by design}.
+\newblock arXiv:2503.18813, 2025.
+
+\bibitem{fides}
+M.~Costa, B.~Köpf, A.~Kolluri, A.~Paverd, M.~Russinovich, A.~Salem, S.~Tople,
+  L.~Wutschitz, and S.~Zanella-Béguelin.
+\newblock {Securing AI agents with information-flow control}.
+\newblock arXiv:2505.23643, 2025.
+
+\bibitem{progent}
+T.~Shi, J.~He, Z.~Wang, H.~Li, L.~Wu, W.~Guo, and D.~Song.
+\newblock {Progent: Securing AI agents with privilege control}.
+\newblock arXiv:2504.11703, 2025.
+
+\bibitem{agentspec}
+H.~Wang, C.~M. Poskitt, and J.~Sun.
+\newblock {AgentSpec: Customizable runtime enforcement for safe and reliable
+  LLM agents}.
+\newblock In {\em Proc. 48th IEEE/ACM Int. Conf. Softw. Eng. (ICSE)}, pages
+  2938--2950, Rio de Janeiro, Brazil, apr 2026.
+\newblock doi: 10.1145/3744916.3764546, arXiv:2503.18666.
+
+\bibitem{conseca}
+L.~Tsai and E.~Bagdasarian.
+\newblock {Contextual agent security: A policy for every purpose}.
+\newblock In {\em Proc. Workshop Hot Topics Oper. Syst. (HotOS)}, pages 8--17,
+  Banff, AB, Canada, 2025.
+\newblock doi: 10.1145/3713082.3730378, arXiv:2501.17070.
+
+\bibitem{isolategpt}
+Y.~Wu, F.~Roesner, T.~Kohno, N.~Zhang, and U.~Iqbal.
+\newblock {IsolateGPT: An execution isolation architecture for LLM-based
+  agentic systems}.
+\newblock In {\em Proc. Netw. Distrib. Syst. Secur. Symp. (NDSS)}, San Diego,
+  CA, USA, 2025.
+\newblock doi: 10.14722/ndss.2025.241131, arXiv:2403.04960.
+
+\bibitem{melon}
+K.~Zhu, X.~Yang, J.~Wang, W.~Guo, and W.~Y. Wang.
+\newblock {MELON: Provable defense against indirect prompt injection attacks in
+  AI agents}.
+\newblock In {\em Proc. 42nd Int. Conf. Mach. Learn. (ICML), Proc. Mach. Learn.
+  Res.}, volume 267, pages 80310--80329, 2025.
+\newblock arXiv:2502.05174.
+
+\bibitem{taskshield}
+F.~Jia, T.~Wu, X.~Qin, and A.~Squicciarini.
+\newblock {The Task Shield: Enforcing task alignment to defend against indirect
+  prompt injection in LLM agents}.
+\newblock In {\em Proc. 63rd Annu. Meeting Assoc. Comput. Linguistics (ACL)},
+  pages 29680--29697, Vienna, Austria, 2025.
+\newblock doi: 10.18653/v1/2025.acl-long.1435, arXiv:2412.16682.
+
+\bibitem{patterns}
+L.~Beurer-Kellner, B.~Buesser, A.-M. Creţu, E.~Debenedetti, D.~Dobos,
+  D.~Fabian, M.~Fischer, D.~Froelicher, K.~Grosse, D.~Naeff, E.~Ozoani,
+  A.~Paverd, F.~Tramèr, and V.~Volhejn.
+\newblock {Design patterns for securing LLM agents against prompt injections}.
+\newblock arXiv:2506.08837, 2025.
+
+\bibitem{narisetty}
+P.~Narisetty, S.~N.~B. Kore, U.~K.~R. Kattamanchi, and J.~Kumarapu.
+\newblock {Adaptive evaluation of out-of-band defenses against prompt injection
+  in LLM agents}.
+\newblock arXiv:2606.26479, jun 2026.
+\newblock preprint, not peer reviewed.
+
+\bibitem{dennis}
+J.~B. Dennis and E.~C.~Van Horn.
+\newblock {Programming semantics for multiprogrammed computations}.
+\newblock {\em Commun. ACM}, 9(3):143--155, mar 1966.
+\newblock doi: 10.1145/365230.365252.
+
+\bibitem{hardy}
+N.~Hardy.
+\newblock {The confused deputy (or why capabilities might have been invented)}.
+\newblock {\em ACM SIGOPS Oper. Syst. Rev.}, 22(4):36--38, oct 1988.
+\newblock doi: 10.1145/54289.871709.
+
+\bibitem{denning}
+D.~E. Denning.
+\newblock {A lattice model of secure information flow}.
+\newblock {\em Commun. ACM}, 19(5):236--243, may 1976.
+\newblock doi: 10.1145/360051.360056.
+
+\bibitem{nist207}
+S.~Rose, O.~Borchert, S.~Mitchell, and S.~Connelly.
+\newblock {Zero trust architecture}.
+\newblock Technical Report NIST Spec. Publ. 800-207, Nat. Inst. Standards
+  Technol., Gaithersburg, MD, USA, aug 2020.
+\newblock doi: 10.6028/NIST.SP.800-207.
+
+\bibitem{wilson}
+E.~B. Wilson.
+\newblock {Probable inference, the law of succession, and statistical
+  inference}.
+\newblock {\em J. Amer. Statist. Assoc.}, 22(158):209--212, jun 1927.
+\newblock doi: 10.1080/01621459.1927.10502953.
+
+\bibitem{newcombe}
+R.~G. Newcombe.
+\newblock {Interval estimation for the difference between independent
+  proportions: Comparison of eleven methods}.
+\newblock {\em Statist. Med.}, 17(8):873--890, apr 1998.
+\newblock doi:
+  10.1002/(SICI)1097-0258(19980430)17:8\textless{}873::AID-SIM779\textgreater{}3.0.CO;2-I.
+
+\bibitem{holm}
+S.~Holm.
+\newblock {A simple sequentially rejective multiple test procedure}.
+\newblock {\em Scand. J. Statist.}, 6(2):65--70, 1979.
+
+\bibitem{cohen}
+J.~Cohen.
+\newblock {A coefficient of agreement for nominal scales}.
+\newblock {\em Educ. Psychol. Meas.}, 20(1):37--46, apr 1960.
+\newblock doi: 10.1177/001316446002000104.
+
+\bibitem{fleiss}
+J.~L. Fleiss.
+\newblock {Measuring nominal scale agreement among many raters}.
+\newblock {\em Psychol. Bull.}, 76(5):378--382, 1971.
+\newblock doi: 10.1037/h0031619.
+
+\end{thebibliography}

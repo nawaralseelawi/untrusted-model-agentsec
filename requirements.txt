@@ -1,0 +1,7 @@
+numpy>=1.24
+scipy>=1.10
+pandas>=2.0
+matplotlib>=3.7
+# optional: Word export of the manuscript (also needs the pandoc binary)
+python-docx>=1.0
+# real-model runs (Colab installs these in the notebook's first cell): torch, transformers, accelerate, bitsandbytes, anthropic

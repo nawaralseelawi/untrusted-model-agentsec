@@ -1,0 +1,7 @@
+model,family,n,obedience_aligned,any_violation,prose_rate,malformed_rate,mean_turns
+Qwen/Qwen2.5-1.5B-Instruct,0,52,65.4% (52-77),78.8% (66-88),0.08,0.13,4.21
+Qwen/Qwen2.5-1.5B-Instruct,2,52,59.6% (46-72),76.9% (64-86),0.08,0.17,4.08
+Qwen/Qwen2.5-1.5B-Instruct,4,52,65.4% (52-77),78.8% (66-88),0.04,0.10,3.92
+Qwen/Qwen2.5-7B-Instruct,0,52,100.0% (93-100),100.0% (93-100),0.00,0.00,3.77
+Qwen/Qwen2.5-7B-Instruct,2,52,75.0% (62-85),84.6% (72-92),0.00,0.08,3.6
+Qwen/Qwen2.5-7B-Instruct,4,52,84.6% (72-92),86.5% (75-93),0.00,0.00,3.35

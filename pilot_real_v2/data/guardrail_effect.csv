@@ -1,0 +1,7 @@
+model,defence,obey_D0,obey_def,fisher_p
+Qwen/Qwen2.5-1.5B-Instruct,D1,63.5% (56-71),66.0% (58-73),0.7223
+Qwen/Qwen2.5-1.5B-Instruct,D2,63.5% (56-71),46.2% (39-54),0.003
+Qwen/Qwen2.5-1.5B-Instruct,D3,63.5% (56-71),11.5% (7-18),0.0
+Qwen/Qwen2.5-7B-Instruct,D1,86.5% (80-91),57.7% (50-65),0.0
+Qwen/Qwen2.5-7B-Instruct,D2,86.5% (80-91),44.9% (37-53),0.0
+Qwen/Qwen2.5-7B-Instruct,D3,86.5% (80-91),0.0% (0-2),0.0

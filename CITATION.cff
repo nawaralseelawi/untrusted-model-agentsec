@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the paper below."
+title: "Treating the Model as an Untrusted Component: Deterministic Policy Enforcement, Human Approval and Taint Tracking Against Prompt Injection in Tool-Using Agents, with Validation on Open-Weights Models"
+authors:
+  - family-names: "Aljumaily"
+    given-names: "Mustafa S."
+    affiliation: "ICT Department, Missan Oil Company, Iraq"
+    orcid: "https://orcid.org/0000-0002-7886-9537"
+  - family-names: "Alseelawi"
+    given-names: "Nawar S."
+    affiliation: "University of Misan"
+date-released: "2026-11-06"
+version: "1.0.0"
+license: MIT
+repository-code: "https://github.com/nawaralseelawi/untrusted-model-agentsec"
+preferred-citation:
+  type: article
+  title: "Treating the Model as an Untrusted Component: Deterministic Policy Enforcement, Human Approval and Taint Tracking Against Prompt Injection in Tool-Using Agents, with Validation on Open-Weights Models"
+  authors:
+    - family-names: "Aljumaily"
+      given-names: "Mustafa S."
+    - family-names: "Alseelawi"
+      given-names: "Nawar S."
+  year: 2026
+  journal: "arXiv preprint"
