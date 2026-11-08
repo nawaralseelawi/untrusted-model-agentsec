@@ -4,7 +4,7 @@ Code, data, results and manuscript sources for:
 
 > Mustafa S. Aljumaily, Nawar S. Alseelawi and Raghad Alshabandar. "Treating the Model as an Untrusted Component: Deterministic Policy Enforcement, Human Approval and Taint Tracking Against Prompt Injection in Tool-Using Agents, with Validation on Open-Weights Models". arXiv preprint, 2026 (arXiv identifier and link added at announcement; release `v1.0.0` corresponds to version 1 of the preprint).
 
-Authors: Mustafa S. Aljumaily (ICT Department, Missan Oil Company, Iraq; corresponding author, mustafasadiq0@gmail.com; ORCID 0000-0002-7886-9537), Nawar S. Alseelawi (Department of Electrical Engineering, College of Engineering, University of Misan, Iraq; nawar.alseelawi@uomisan.edu.iq) and Raghad Alshabandar (National Center for Artificial Intelligence, Baghdad, Iraq; raghadalshabandar@outlook.com; ORCID 0000-0002-1393-3761).
+Authors: Mustafa S. Aljumaily (ICT Department, Missan Oil Company, Iraq; corresponding author, mustafasadiq0@gmail.com; ORCID 0000-0002-7886-9537), Nawar S. Alseelawi (Department of Electrical Engineering, College of Engineering, University of Misan, Iraq; nawar.alseelawi@uomisan.edu.iq; ORCID 0000-0001-5739-2349) and Raghad Alshabandar (National Center for Artificial Intelligence, Baghdad, Iraq; raghadalshabandar@outlook.com; ORCID 0000-0002-1393-3761).
 
 Question: can deterministic enforcement outside the model (reference monitors, taint tracking, bounded human approval) protect tool-using LLM agents against prompt injection better than in-prompt guardrails, and what are its limits?
 
