@@ -24,9 +24,10 @@ def fix_table(block):
     return "\n".join([lines[0], sep] + lines[2:]) + "\n"
 md = re.sub(r"(?m)^(\|.*\n\|[-| ]+\|\n(?:\|.*\n)+)", lambda m: fix_table(m.group(1)), md)
 title = open(SRC, encoding="utf-8").readline().lstrip("# ").strip()
-yaml = (f'---\ntitle: "{title}"\nauthor:\n  - "Mustafa S. Aljumaily^1,\\\\*^ and Nawar S. Alseelawi^2^"\n'
+yaml = (f'---\ntitle: "{title}"\nauthor:\n  - "Mustafa S. Aljumaily^1,\\\\*^, Nawar S. Alseelawi^2^ and Raghad Alshabandar^3^"\n'
         '  - "^1^ ICT Department, Missan Oil Company, Missan, Iraq (mustafasadiq0@gmail.com; ORCID 0000-0002-7886-9537)"\n'
         '  - "^2^ Department of Electrical Engineering, College of Engineering, University of Misan, Maysan, Iraq (nawar.alseelawi@uomisan.edu.iq)"\n'
+        '  - "^3^ National Center for Artificial Intelligence, Baghdad, Iraq (raghadalshabandar@outlook.com; ORCID 0000-0002-1393-3761)"\n'
         '  - "\\\\* Corresponding author: mustafasadiq0@gmail.com"\ndate: "November 2026"\n---\n\n')
 open("_paper_tmp.md", "w", encoding="utf-8").write(yaml + md)
 

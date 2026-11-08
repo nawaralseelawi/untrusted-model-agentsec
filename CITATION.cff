@@ -9,6 +9,10 @@ authors:
   - family-names: "Alseelawi"
     given-names: "Nawar S."
     affiliation: "University of Misan"
+  - family-names: "Alshabandar"
+    given-names: "Raghad"
+    affiliation: "National Center for Artificial Intelligence, Baghdad, Iraq"
+    orcid: "https://orcid.org/0000-0002-1393-3761"
 date-released: "2026-11-06"
 version: "1.0.0"
 license: MIT
@@ -21,5 +25,7 @@ preferred-citation:
       given-names: "Mustafa S."
     - family-names: "Alseelawi"
       given-names: "Nawar S."
+    - family-names: "Alshabandar"
+      given-names: "Raghad"
   year: 2026
   journal: "arXiv preprint"

@@ -44,10 +44,11 @@ PIL = PS.build()
 
 md = f"""# Treating the Model as an Untrusted Component: Deterministic Policy Enforcement, Human Approval and Taint Tracking Against Prompt Injection in Tool-Using Agents, with Validation on Open-Weights Models
 
-**Mustafa S. Aljumaily**<sup>1,\\*</sup> and **Nawar S. Alseelawi**<sup>2</sup>
+**Mustafa S. Aljumaily**<sup>1,\\*</sup>, **Nawar S. Alseelawi**<sup>2</sup> and **Raghad Alshabandar**<sup>3</sup>
 
 <sup>1</sup> ICT Department, Missan Oil Company, Missan, Iraq (mustafasadiq0@gmail.com; ORCID 0000-0002-7886-9537)  
 <sup>2</sup> Department of Electrical Engineering, College of Engineering, University of Misan, Maysan, Iraq (nawar.alseelawi@uomisan.edu.iq)  
+<sup>3</sup> National Center for Artificial Intelligence, Baghdad, Iraq (raghadalshabandar@outlook.com; ORCID 0000-0002-1393-3761)  
 \\* Corresponding author: mustafasadiq0@gmail.com
 
 ---
@@ -318,7 +319,7 @@ Dependencies: Python >= 3.10, numpy, scipy, pandas, matplotlib, openpyxl (torch,
 
 ## Declarations
 
-**Author contributions (CRediT).** M.S.A.: conceptualisation, software, investigation (simulation and real-model runs), data curation, formal analysis, validation (oracle audit, rater A), visualisation, writing of the original draft. N.S.A.: conceptualisation (research idea), methodology (the enforcement algorithm, the design of the experiments, review of the methodology), validation (independent blind oracle audit, rater B), writing (review and editing). Both authors discussed the defences and the results and approved the final manuscript.
+**Author contributions (CRediT).** M.S.A.: conceptualisation, software, investigation (simulation and real-model runs), data curation, formal analysis, validation (oracle audit, rater A), visualisation, writing of the original draft. N.S.A.: conceptualisation (research idea), methodology (the enforcement algorithm, the design of the experiments, review of the methodology), validation (independent blind oracle audit, rater B), writing (review and editing). R.A.: supervision, methodology (review of the methodology), and discussion and interpretation of the results. All authors discussed the defences and the results and approved the final manuscript.
 
 **Competing interests.** The authors declare no competing interests.
 
