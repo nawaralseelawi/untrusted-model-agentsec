@@ -148,7 +148,7 @@ preamble = r"""% arXiv-ready source (project template, pdflatex + BibTeX unsrt).
 \author[2]{Nawar S. Alseelawi}
 \author[3]{Raghad Alshabandar}
 \affil[1]{ICT Department, Missan Oil Company, Missan, Iraq\\ \texttt{mustafasadiq0@gmail.com}; ORCID 0000-0002-7886-9537}
-\affil[2]{Department of Electrical Engineering, College of Engineering, University of Misan, Maysan, Iraq\\ \texttt{nawar.alseelawi@uomisan.edu.iq}; ORCID 0000-0001-5739-2349}
+\affil[2]{University of Misan, Maysan, Iraq\\ \texttt{nawar.alseelawi@uomisan.edu.iq}; ORCID 0000-0001-5739-2349}
 \affil[3]{National Center for Artificial Intelligence, Baghdad, Iraq\\ \texttt{raghadalshabandar@outlook.com}; ORCID 0000-0002-1393-3761}
 \affil[*]{Corresponding author: \texttt{mustafasadiq0@gmail.com}}
 \date{}

@@ -3,7 +3,7 @@
 **Mustafa S. Aljumaily**<sup>1,\*</sup>, **Nawar S. Alseelawi**<sup>2</sup> and **Raghad Alshabandar**<sup>3</sup>
 
 <sup>1</sup> ICT Department, Missan Oil Company, Missan, Iraq (mustafasadiq0@gmail.com; ORCID 0000-0002-7886-9537)  
-<sup>2</sup> Department of Electrical Engineering, College of Engineering, University of Misan, Maysan, Iraq (nawar.alseelawi@uomisan.edu.iq; ORCID 0000-0001-5739-2349)  
+<sup>2</sup> University of Misan, Maysan, Iraq (nawar.alseelawi@uomisan.edu.iq; ORCID 0000-0001-5739-2349)  
 <sup>3</sup> National Center for Artificial Intelligence, Baghdad, Iraq (raghadalshabandar@outlook.com; ORCID 0000-0002-1393-3761)  
 \* Corresponding author: mustafasadiq0@gmail.com
 
